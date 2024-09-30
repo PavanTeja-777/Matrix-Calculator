@@ -78,8 +78,4 @@ Here's a step-by-step example of using the Matrix Calculator:
 
 - Developed by: 22233-CS-004
 
-## License
-
-- This program is copyrighted by 22233-CS-004.
-
 Enjoy using the Matrix Calculator! If you have any questions or feedback, feel free to reach out.
